@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+                                    
+    
+    
+    
+    
+    
+    
+    
+    <wb-module deploy-name="juliasets">
+        <wb-resource deploy-path="/WEB-INF/web.xml" source-path="/WebContent/WEB-INF/web.xml"/>
+                                                                        
+        
+        
+        
+        
+        
+        
+        
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+                                                                        
+        
+        
+        
+        
+        
+        
+        
+        <wb-resource deploy-path="/" source-path="/src"/>
+                                                        
+        
+        
+        
+        
+        
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/resources"/>
+                                                
+        
+        
+        
+        
+        <wb-resource deploy-path="/" source-path="/target/m2e-wtp/web-resources"/>
+                                                
+        
+        
+        
+        
+        <wb-resource deploy-path="/" source-path="/src/main/webapp"/>
+                
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+                                                                        
+        
+        
+        
+        
+        
+        
+        
+        <property name="java-output-path" value="/juliasets/build/classes"/>
+                                                        
+        
+        
+        
+        
+        
+        <property name="context-root" value="juliasets"/>
+                                                                    
+    
+    
+    
+    
+    
+    
+    
+    </wb-module>
+                                
+
+
+
+
+
+
+
+</project-modules>

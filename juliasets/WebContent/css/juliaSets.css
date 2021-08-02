@@ -1,0 +1,21 @@
+#mainNavbar a:not(.active):not(:hover):not(:focus) {
+  color: rgba(255, 255, 255, 0.75); }
+
+#mainNavbar a:not(.active):hover, #mainNavbar a:not(.active):focus {
+  color: rgba(255, 255, 255, 0.85); }
+
+#headerNav .navbar-toggler {
+  color: rgba(255, 255, 255, 0.75); }
+
+#juliaParamsForm {
+  padding-bottom: 4rem; }
+  #juliaParamsForm .row {
+    padding-top: var(--bs-gutter-y); }
+  #juliaParamsForm .input-group {
+    flex-wrap: nowrap; }
+    #juliaParamsForm .input-group .input-group-text {
+      height: fit-content; }
+    #juliaParamsForm .input-group .juliaParam {
+      width: 50%; }
+
+/*# sourceMappingURL=juliaSets.css.map */

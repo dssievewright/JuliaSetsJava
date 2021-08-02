@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+
+<groups xmlns="http://www.isdc.ro/wro">
+	<group name="juliaSets-min">
+		<js>/js/**.js</js>
+	</group>
+</groups> 
